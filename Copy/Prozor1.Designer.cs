@@ -120,7 +120,7 @@ namespace Copy
             // 
             // currentFile
             // 
-            this.currentFile.Location = new System.Drawing.Point(170, 42);
+            this.currentFile.Location = new System.Drawing.Point(157, 42);
             this.currentFile.Name = "currentFile";
             this.currentFile.Size = new System.Drawing.Size(609, 20);
             this.currentFile.TabIndex = 14;
@@ -128,7 +128,7 @@ namespace Copy
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(25, 45);
+            this.label2.Location = new System.Drawing.Point(12, 45);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(139, 13);
             this.label2.TabIndex = 17;
