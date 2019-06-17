@@ -65,7 +65,7 @@ namespace Copy
             // 
             // button2
             // 
-            this.button2.Location = new System.Drawing.Point(409, 14);
+            this.button2.Location = new System.Drawing.Point(409, 15);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(75, 23);
             this.button2.TabIndex = 2;
